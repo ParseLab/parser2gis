@@ -57,7 +57,7 @@
   },
   "homepage": "https://github.com/electron/electron-quick-start#readme",
   "devDependencies": {
-    "electron": "^9.0.2",
+    "electron": "^9.4.0",
     "electron-builder": "^22.7.0"
   },
   "dependencies": {
